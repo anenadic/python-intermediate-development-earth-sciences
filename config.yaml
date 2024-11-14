@@ -33,7 +33,7 @@ life_cycle: 'beta'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/introduction-to-conda-for-data-scientists/'
+source: 'https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists'
 
 # Default branch of your lesson
 branch: 'main'
@@ -87,7 +87,6 @@ profiles:
 
 
 carpentry_description: Lesson Description
-url: https://preview.carpentries.org/introduction-to-conda-for-data-scientists
+url: 'https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists'
 analytics: carpentries
 lang: en
-workbench-beta: yes
