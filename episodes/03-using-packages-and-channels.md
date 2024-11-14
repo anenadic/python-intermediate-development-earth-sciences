@@ -2,19 +2,24 @@
 title: "Using Packages and Channels"
 teaching: 20
 exercises: 10
-questions:
+---
+
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- "Install a package from a specific channel."
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
 - "What are Conda channels?"
 - "What are Conda packages?"
 - "Why should I be explicit about which channels my research project uses?"
 - "What should I do if a Python package isn't available via a Conda channel?"
-objectives:
-- "Install a package from a specific channel."
-keypoints:
-- "A package is a tarball containing system-level libraries, Python or other modules, executable programs and other components, and associated metadata."
-- "A Conda channel is a URL to a directory containing a Conda package(s)."
-- "Explicitly including the channels (and their priority!) in a project's environment file is necessary for another researcher to completely re-create that project's software environment." 
-- "Understand how to use Conda and Pip together effectively."
----
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## What are Conda packages?
 
@@ -408,5 +413,14 @@ environment.
 > {: .solution}
 {: .challenge}
 
+
+::: keypoints
+
+- "A package is a tarball containing system-level libraries, Python or other modules, executable programs and other components, and associated metadata."
+- "A Conda channel is a URL to a directory containing a Conda package(s)."
+- "Explicitly including the channels (and their priority!) in a project's environment file is necessary for another researcher to completely re-create that project's software environment."
+- "Understand how to use Conda and Pip together effectively."
+
+:::
 {% include links.md %}
 

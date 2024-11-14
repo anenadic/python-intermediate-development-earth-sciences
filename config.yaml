@@ -20,7 +20,7 @@ carpentry: 'incubator'
 title: 'Introduction to Conda for (Data) Scientists'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created: "2019-05-19" 
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -87,6 +87,3 @@ profiles:
 
 
 carpentry_description: Lesson Description
-url: 'https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists'
-analytics: carpentries
-lang: en
