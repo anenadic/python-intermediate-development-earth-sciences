@@ -1,4 +1,8 @@
-## Setup Instructions
+---
+title: Installation Instructions
+---
+
+## Installation Instructions
 
 You will need the following software installed and working correctly on your system to be able to follow the course:
 
